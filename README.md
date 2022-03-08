@@ -1,7 +1,7 @@
-#E-commerece Requirements
+# E-commerece Requirements
 -
 -
-##Home page and header Requirements
+## Home page and header Requirements
 - Search bar has the option to filter results
 - language option
 - customer and seller login
@@ -11,14 +11,14 @@
 - bestseller
 - business logo
 - responsive
-##categories page
+## categories page
 - number of product
 - product description
 - every product have a related image
 - show brand and seller
 - show sales if exist
 - rating
-##product page
+## product page
 - add to cart button
 - information about the seller
 - multiple views for product
@@ -26,16 +26,16 @@
 - product description
 - customer can change the quantity
 - payment method
-##user page
+## user page
 - user information
 - user can edit his information
 - wish list
 - user can add money to his account
 - user can edit his payment method
-##Backend feature
+## Backend feature
 - security
 - admin page
-##shoping cart
+## shoping cart
 - tracking ship
 - auto email
 - final price
