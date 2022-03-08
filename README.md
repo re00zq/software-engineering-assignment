@@ -1,6 +1,6 @@
 # E-commerece Requirements
 
-## Home page and header Requirements
+## Home page and header
 - Search bar has the option to filter results
 - language option
 - customer and seller login
